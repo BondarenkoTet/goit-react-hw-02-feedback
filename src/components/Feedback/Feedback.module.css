@@ -1,4 +1,4 @@
-button {
+.click {
 background-color: lightgray;
 margin: 8px;
 width: 80px;
@@ -7,7 +7,7 @@ cursor: pointer;
 border-radius: 6px;
 }
 
-button:hover {
+.click:hover {
     background-color: blue;
     color: white;
 }
